@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 It's kind of fun to do the impossible.
+
 One fails forward toward success.
+
 Stay hungry, stay foolish.
 
 <!--
