@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+It's kind of fun to do the impossible.
+One fails forward toward success.
+Stay hungry, stay foolish.
+
 <!--
 **BlueSzy/BlueSzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
